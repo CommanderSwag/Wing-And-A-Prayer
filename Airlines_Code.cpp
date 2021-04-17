@@ -1,5 +1,4 @@
-							/*William Mitchell
-							WING AND A PRAYER AIRLINES*/
+							/*WING AND A PRAYER AIRLINES*/
 #include <iostream>
 #include <stdlib.h>
 #include <string.h>
